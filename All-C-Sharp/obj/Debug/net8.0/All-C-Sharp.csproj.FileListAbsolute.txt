@@ -1,0 +1,14 @@
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\bin\Debug\net8.0\All-C-Sharp.exe
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\bin\Debug\net8.0\All-C-Sharp.deps.json
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\bin\Debug\net8.0\All-C-Sharp.runtimeconfig.json
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\bin\Debug\net8.0\All-C-Sharp.dll
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\bin\Debug\net8.0\All-C-Sharp.pdb
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.AssemblyInfo.cs
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.dll
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\refint\All-C-Sharp.dll
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.pdb
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\All-C-Sharp.genruntimeconfig.cache
+C:\Users\BusinessComputers.in\source\repos\All-C-Sharp\obj\Debug\net8.0\ref\All-C-Sharp.dll
