@@ -1,0 +1,14 @@
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\bin\Debug\net8.0\Assignment-1.exe
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\bin\Debug\net8.0\Assignment-1.deps.json
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\bin\Debug\net8.0\Assignment-1.runtimeconfig.json
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\bin\Debug\net8.0\Assignment-1.dll
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\bin\Debug\net8.0\Assignment-1.pdb
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.AssemblyInfoInputs.cache
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.AssemblyInfo.cs
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.dll
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\refint\Assignment-1.dll
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.pdb
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\Assignment-1.genruntimeconfig.cache
+C:\Users\BusinessComputers.in\source\repos\Assignment-1\obj\Debug\net8.0\ref\Assignment-1.dll
